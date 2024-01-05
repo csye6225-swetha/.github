@@ -52,9 +52,9 @@ This project is a comprehensive demonstration of cloud application development a
 ###  🛠️ Code 
 For more specific implementation details, visit the repos : 
 
-- Application and REST APIs :
-- Infrastrcuture :
-- Lambda Function : 
+- Application and REST APIs : https://github.com/csye6225-swetha/webapp
+- Infrastructure            : https://github.com/csye6225-swetha/iac-pulumi
+- Lambda Function           : https://github.com/csye6225-swetha/serverless
 <!--
 
 **Here are some ideas to get you started:**
