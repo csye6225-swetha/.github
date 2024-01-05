@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repositories for Assignment Work by Swetha Paturu for CSYE6225
 
 <!--
 
