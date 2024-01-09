@@ -44,7 +44,11 @@ This project is a comprehensive demonstration of cloud application development a
 
 ### 📝 Architecture Diagram 
 
-![Example Image](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio.png)
+![Architecture](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio.png)
+
+## CI/CD 
+
+![CICD](https://github.com/csye6225-swetha/.github/blob/main/CI_CD.drawio.png)
 
 
 ### 📘 Key Takeaways 
