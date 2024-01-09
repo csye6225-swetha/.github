@@ -42,6 +42,11 @@ This project is a comprehensive demonstration of cloud application development a
   -  🔍 CloudWatch (Logs and metrics)
 
 
+### 📝 Architecture Diagram 
+
+![Example Image](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio.png)
+
+
 ### 📘 Key Takeaways 
 
   - Gained comprehensive knowledge in deploying and managing cloud-based applications using AWS services
