@@ -36,7 +36,7 @@ This project is a comprehensive demonstration of cloud application development a
   -  ⚖️ Application Load Balancer (ALB)
   -  🔏 Certificate Manager (Security In transit)
   -  ⚖️ Auto Scaling group (Scale on demand)
-  -  💻 EC2 (Virtual Server)
+  -  💻 EC2 (Virtual Server)(Debian OS)
   -  🗄️ RDS (Relational database service)
   -  ☁️ GCS (Google Cloud Storage)
   -  🔍 CloudWatch (Logs and metrics)
