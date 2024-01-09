@@ -3,6 +3,12 @@
 🌟 In these repositories, you'll find all my assignments from Northeastern University's CSYE6225 Network Structures and Cloud Computing course. This course significantly deepened my interest in cloud computing and broadened my exposure to a variety of AWS services. I extend my special thanks to Prof. Tejas Parikh for his insightful and challenging assignments 
 
 
+### 📝 Architecture Diagram 
+
+![Architecture](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio.png)
+
+
+
 ### 🚀 Project Overview 
 
 This project is a comprehensive demonstration of cloud application development and deployment, emphasizing robust security and high availability: 
@@ -40,11 +46,6 @@ This project is a comprehensive demonstration of cloud application development a
   -  🗄️ RDS (Relational database service)
   -  ☁️ GCS (Google Cloud Storage)
   -  🔍 CloudWatch (Logs and metrics)
-
-
-### 📝 Architecture Diagram 
-
-![Architecture](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio.png)
 
 ## CI/CD 
 
