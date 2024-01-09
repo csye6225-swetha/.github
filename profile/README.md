@@ -48,7 +48,7 @@ This project is a comprehensive demonstration of cloud application development a
 
 ## CI/CD 
 
-![CICD](https://github.com/csye6225-swetha/.github/blob/main/CI_CD.drawio.png)
+![CICD](https://github.com/csye6225-swetha/.github/blob/main/cicd.drawio.png)
 
 
 ### 📘 Key Takeaways 
