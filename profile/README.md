@@ -5,7 +5,7 @@
 
 ### 📝 Architecture Diagram 
 
-![Architecture](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio.png)
+![Architecture](https://github.com/csye6225-swetha/.github/blob/main/csye6225-full.drawio-3.png)
 
 
 
